@@ -21,7 +21,7 @@ bport=27111
 server
 name=xDL - 僵尸感染服---- 3# 
 ip=103.120.88.105 
-port=27111 
+port=27018 
 pass=123 
 acces=cs 
 star=cstrike.exe 
