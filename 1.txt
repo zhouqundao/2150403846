@@ -19,7 +19,7 @@ bip=103.120.88.105
 bport=27111
 
 server
-name=xDL - 僵尸感染服 3# 
+name=xDL - 僵尸感染服---- 3# 
 ip=103.120.88.105 
 port=27111 
 pass=123 
