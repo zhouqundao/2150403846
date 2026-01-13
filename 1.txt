@@ -1,0 +1,1 @@
+server name=xDL - 混战服 1# ip=103.120.88.105 port=28888 pass=123 acces=cs star=cstrike.exe bip=103.120.88.105 bport=28888 server name=xDL - 死亡竞技服 2# ip=103.120.88.105 port=27111 pass=123 acces=cs star=cstrike.exe bip=103.120.88.105 bport=27111
